@@ -1,0 +1,19 @@
+.Item{
+    display:flex;
+    justify-content:space-around;
+    width:19rem;
+    background:#94bbe9;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    margin-top:3rem;
+    height: 12rem;
+    align-items:center;
+}
+.form{
+     width: 70%;
+     margin-top: 10px; 
+}
+.btn{
+    margin-left:  2rem; ;
+    border:transparent;
+    background:transparent;    
+}
